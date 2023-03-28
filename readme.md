@@ -23,7 +23,11 @@
 2. _Set up a Firebase account and update the Firebase configuration in firebase.js._
 3. _Set up an Alan AI account and update the Alan AI configuration in alan.js._
 
-## ScreenShot
+### **_Activating the Voice Assistant_**
+
+To activate the voice assistant, simply click on the headphone. This will activate the Alan AI voice-activated commands, allowing you to navigate the site using natural language commands.
+
+## **_ScreenShot_**
 
 <p align="center">
 <img src="Output Screenshot\Screenshot-4.png" width="600"/>
